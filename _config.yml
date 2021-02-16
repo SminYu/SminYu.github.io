@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 remote_theme             : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "YSM Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Seungmin Yu"
+description              : "My blog!"
 
 url                      : "https://YSM-SeungminYu.github.io"
 baseurl                  : ""
@@ -96,15 +96,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seungmin Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Undergraduate student in Yonsei Univ."
+  location         : "Seoul, Korea."
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "ksysm3@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -116,7 +116,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/YSM-SeungminYu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
